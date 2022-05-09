@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    background: rgb(63,94,251);
+    background: radial-gradient(ellipse at top, #c5c5c5, transparent),
+    radial-gradient(ellipse at bottom, #1351e3, transparent);
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 30px;
+}
+
+form {
+    text-align: center;
+    padding: 20px;
+}
+
+#select {
+    padding:20px
+}
+
+#dropdown {
+    padding:20px
+}
